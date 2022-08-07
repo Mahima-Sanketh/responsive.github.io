@@ -13,6 +13,8 @@ body {
 .main {
   display: inline-flex;
   flex-wrap: wrap;
+  margin-left: 140px;
+  margin-top: 7rem;
 }
 .thumb {
   background-color: white;
